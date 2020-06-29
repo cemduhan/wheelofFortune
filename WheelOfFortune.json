@@ -1,0 +1,37 @@
+﻿[
+  {
+    "gift": "250 MB",
+    "winPercentage": 20,
+    "canWinpoints": true
+  },
+  {
+    "gift": "1GB",
+    "winPercentage": 5,
+    "canWinpoints": false
+  },
+  {
+    "gift": "Boyner 25 TL",
+    "winPercentage": 5,
+    "canWinpoints": false
+  },
+  {
+    "gift": "Koton 10TL",
+    "winPercentage": 10,
+    "canWinpoints": true
+  },
+  {
+    "gift": "Blu TV 1 Ay",
+    "winPercentage": 5,
+    "canWinpoints": false
+  },
+  {
+    "gift": "10 TL Steam",
+    "winPercentage": 10,
+    "canWinpoints": true
+  },
+  {
+    "gift": "Karavana",
+    "winPercentage": 45,
+    "canWinpoints": true
+  }
+]

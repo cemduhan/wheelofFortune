@@ -1,0 +1,22 @@
+[
+  {
+    "point": 75,
+    "winPercentage": 5
+  },
+  {
+    "point": 150,
+    "winPercentage": 4
+  },
+  {
+    "point": 500,
+    "winPercentage": 1
+  },
+  {
+    "point": 5,
+    "winPercentage": 50
+  },
+  {
+    "point": 0,
+    "winPercentage": 40
+  }
+]
